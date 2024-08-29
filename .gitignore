@@ -1,0 +1,18 @@
+venv/
+
+*.pyc
+__pycache__/
+
+instance/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.coverage/
+htmlcov/
+
+# C extensions
+dist/
+build/
+*.egg-info/
